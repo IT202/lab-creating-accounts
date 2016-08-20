@@ -1,4 +1,4 @@
-#Creating Accounts
+#Lab 1 - Creating Accounts
 
 We'll be using a number of professional tools to develop, test, maintain and publish our web pages, sites and apps; in this lab, you'll create accounts for use in class (and beyond.)  We'll learn how to *use* these tools at a later date, and we'll continue to use them (plus many others) throughout the course.
 
@@ -23,12 +23,14 @@ Please make sure you do **not** create any team workspaces - those will be delet
 
 ## GitHub [https://github.com/](https://github.com/)
 
-[Git](https://en.wikipedia.org/wiki/Git_(software) is a version control system, and **GitHub** is a website that allows us to store the repository in the cloud, enablign collaboration and providing a way for developers to show their work to others.
+[Git](https://en.wikipedia.org/wiki/Git_(software)) is a version control system, and **GitHub** is a website that allows us to store the repository in the cloud, enablign collaboration and providing a way for developers to show their work to others.
 
 You'll use it to store and maintain your code, and you'll share respositories so that the instructor(s) can review and evaluate your work.
 
 ## Heroku [https://www.heroku.com/](https://www.heroku.com/)
 
 Heroku is a delivery platform; when your work is ready to be seen by the public, you'll push files to your Heroku virtual server, and the world will be able to access your page/site/app.
+
+
 
 
