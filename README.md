@@ -53,7 +53,3 @@ StackOverflow is a great source for answers to questions on computing languages,
 
 Piazza is a Q & A platform that we'll use for questions and announcements;  the primary use will be for students to help eachother with the work of the class.  You should have received an email to join our Piazza class, but if not, let me know via email.
 
-
-
-
-
