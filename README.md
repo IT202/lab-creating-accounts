@@ -23,7 +23,7 @@ Please make sure you do **not** create any team workspaces - those will be delet
 
 ## GitHub [https://github.com/](https://github.com/)
 
-[Git](https://en.wikipedia.org/wiki/Git_(software)) is a version control system, and **GitHub** is a website that allows us to store the repository in the cloud, enablign collaboration and providing a way for developers to show their work to others.
+[Git](https://en.wikipedia.org/wiki/Git_(software)) is a version control system, and **GitHub** is a website that allows us to store Git repositories in the cloud, enabling collaboration and providing a way for developers to show their work to others.
 
 You'll use it to store and maintain your code, and you'll share respositories so that the instructor(s) can review and evaluate your work.
 
@@ -43,7 +43,7 @@ While those are the primary tools we'll use for *development, maintainence and d
 
 ###JSFiddle [https://jsfiddle.net/](https://jsfiddle.net/)
 
-JSFiddle is a sandbox where we can quickly test our code, and we can save and share that code.  You'll often see references to JSFiddle examples when researching on StackOverflow.
+JSFiddle is a sandbox where you can quickly create and test code, and you can save and share that code.  You'll often see references to JSFiddle examples when researching on StackOverflow.
 
 ###StackOverflow [http://stackoverflow.com/](http://stackoverflow.com/)
 
