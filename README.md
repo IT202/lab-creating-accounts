@@ -41,6 +41,10 @@ Then, set up accounts for the sites listed below.
 
 While those are the primary tools we'll use for *development, maintainence and distribution* of our work, there are some other tools which will be useful.   Please create accounts on these sites also:
 
+###FreeCodeCamp [https://www.freecodecamp.com]
+
+FreeCodeCamp is one of several options for learning the basics online.  For our class, you'll use it learn and reinforce basics of concepts and syntax.
+
 ###JSFiddle [https://jsfiddle.net/](https://jsfiddle.net/)
 
 JSFiddle is a sandbox where you can quickly create and test code, and you can save and share that code.  You'll often see references to JSFiddle examples when researching on StackOverflow.
